@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+chromadb
+openai
+tree_sitter
+python-dotenv
+httpx
+pydantic
+tiktoken
+typing-extensions
+redis        # caching layer
+celery       # async background tasks
+sqlalchemy   # DB storage
